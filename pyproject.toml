@@ -3,7 +3,7 @@ requires = ["uv_build>=0.8.15,<0.9.0"]
 build-backend = "uv_build"
 
 [project]
-name = "mcp-security-education-demo"
+name = "hello-server"
 version = "1.0.0"
 description = "Educational MCP server demonstrating security vulnerabilities"
 authors = [
