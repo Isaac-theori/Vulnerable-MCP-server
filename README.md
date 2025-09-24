@@ -1,6 +1,8 @@
-# vulnerable_mcp_server
+# 🎓 MCP Security Education Demo
 
-An MCP server built with Smithery.
+⚠️ **교육용 취약점 시연 서버 - 실제 환경에서 사용 금지!**
+
+이 MCP 서버는 보안 취약점을 교육 목적으로 시연하기 위해 의도적으로 취약하게 제작되었습니다.
 
 ## Prerequisites
 
