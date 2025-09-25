@@ -1,26 +1,14 @@
-# Python
+# Python-generated files
 __pycache__/
-*.py[cod]
-*.so
-.Python
+*.py[oc]
 build/
 dist/
-*.egg-info/
+wheels/
+*.egg-info
 
 # Virtual environments
-.venv/
-venv/
-.env
+.venv
 
-# IDE
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-
-# Smithery
-.smithery/
-
-# Ruff
-.ruff_cache/
+# locks
+uv.lock
+poetry.lock
