@@ -1,1 +1,2 @@
 runtime: python
+entrypoint: ./entrypoint.sh
