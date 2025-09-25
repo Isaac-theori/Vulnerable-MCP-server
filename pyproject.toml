@@ -4,8 +4,8 @@ build-backend = "uv_build"
 
 [project]
 name = "hello-server"
-version = "1.0.0"
-description = "Educational MCP server demonstrating security vulnerabilities"
+version = "0.1.0"
+description = "An MCP server built with Smithery"
 authors = [
     {name = "Your Name", email = "your.email@example.com"}
 ]
@@ -22,8 +22,6 @@ dependencies = [
 dev = "smithery.cli.dev:main"
 # Run server with interactive testing playground
 playground = "smithery.cli.playground:main"
-# Run server directly for deployment
-server = "run_server:main"
 
 [tool.smithery]
 # Function that returns a patched FastMCP server
